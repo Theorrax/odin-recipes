@@ -1,0 +1,36 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: black;
+    color: rgb(119, 222, 29);
+}
+
+#title {
+    color: white;
+    font-weight: bold;
+    font-size: xx-large;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+.description {
+    font-weight: bold;
+    font-size: x-large;
+    color: white;
+}
+
+#link {
+    color: red;
+}
+
+#link-2 {
+    color: white;   
+}
+
+#button {
+    background-color: red;
+    color: white;
+}
+
